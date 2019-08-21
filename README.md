@@ -11,15 +11,15 @@ On top of all that, having a lightweight, streamlined, web-based software to use
 Notes
 -------------------------------------------------
 USER STRUCTURE
-1 Directors (Perry, Jim, Lisa)
+- Directors (Perry, Jim, Lisa)
 	- Reports	
 	- simple mode / full priveleges mode.  In simple mode the directors will only see what they want to see -- Reports.  They will make their decisions and tell people what to do. No need for Administrative functions to clutter their UI.  But they should have the ability to click a button and enable "full priv mode" which would give them admin abilities as well.  When they are done with it they can turn it off again and just see their favourite reports.
-2 Managers 
+- Managers 
 	- Reports
 	- Sales funnel (still need more info on what this is)
 	- Rep stats
 	- Leasing and customer info
-3 Sales Reps
+- Sales Reps
 	- Customer Equipment
 	- Lease tracker
 	- Proposals (with config validation)
@@ -30,7 +30,7 @@ USER STRUCTURE
 	- Sales Zones
 	- "named" accounts
 	- Sales funnel (still need more info on what this is)
-4 Administrators (krishani, sumira, lisa, michelle)
+- Administrators (krishani, sumira, lisa, michelle)
 	- orders (received as quotes, converted in to Sales Orders, then converted into invoices)
 	- purchase orders
 	- invoicing
@@ -39,12 +39,12 @@ USER STRUCTURE
 	- accounting
 	- customers
 	- reports
-5 Accounting dept (lyra, Lisa)
+- Accounting dept (lyra, Lisa)
 	- everything administrators have +
 	- Payables
 	- Banking
 	- Journal Entries
-6 Warehouse crew
+- Warehouse crew
 	- dispatch centre tasks
 	- inventory centre
 
