@@ -58,3 +58,22 @@ Dashboard
 - The roles would be easier to do because you would just have a list of widgets, or apps, and assign them to groups. You assign users to groups, and bam, they can see those widgets.
 - This makes a flow where the user will come back to the dashboard to get a birds eye view of the things they can do, then select one and drill down into using it.
 - Received receipts for documents could be cool.  Basically when you send an invoice or whatever from the system, in the email it asks the user to click a button showing they have received the invoice.  This way, if the user clicks that button, it will send a JSON response to the originator's account -- updating a little flag on the document to show "receipt confirmed".
+
+
+MVP (Minimum Viable Product)
+-------------------------------
+-6 User types (with unique dashboards)
+- Executives see a list of proposals, orders, quotes, invoices, POs created by everyone (grouped by team, etc?)
+- Sales Reps can create proposals (start out with 1 static config)
+- Sales Reps can create customers
+- Sales Reps can see THEIR OWN proposals created (and status?)
+- Administrators have order inbox
+- Administrators can convert quotes to sales orders with 1 button.
+- Administrators can convert sales orders to invoices.
+- Administrators can convert POs to SOs.
+- Administrators can see a list of SOs, POs, and invoices created by everyone.
+- Administrators can create customers
+- Accounting just exists for now as a copy of Admin
+- Managers can just see lists of proposals created by reps on their team (and status?)
+- Warehouse just exists for now, until I can fully understand their workflow and incorporate it.
+
