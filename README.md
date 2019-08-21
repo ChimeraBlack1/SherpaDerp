@@ -24,9 +24,7 @@ USER STRUCTURE
 	- Lease tracker
 	- Proposals (with config validation)
 	- Paperwork
-	- Submit Quote requests
-	- CRUD Quote requests
-	- Reports
+	- Submit Orders (as quotes to admin team)
 	- Prospect management
 	- Sales teams
 	- Sales Zones
