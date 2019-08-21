@@ -13,7 +13,7 @@ Notes
 USER STRUCTURE
 - Directors (Perry, Jim, Lisa)
 	- Reports	
-	- simple mode / full priveleges mode.  In simple mode the directors will only see what they want to see -- Reports.  They will make their decisions and tell people what to do. No need for Administrative functions to clutter their UI.  But they should have the ability to click a button and enable "full priv mode" which would give them admin abilities as well.  When they are done with it they can turn it off again and just see their favourite reports.
+	- simple mode / full priveleges mode.  In simple mode the directors will only see what they want to see -- Reports.  They will make their decisions and tell people what to do. No need for Administrative functions to clutter their UI.  But they should have the ability to click a button and enable "full priv mode" which would give them "accounting" abilities as well.  When they are done with it they can turn it off again and just see their favourite reports.
 - Managers 
 	- Reports
 	- Sales funnel (still need more info on what this is)
