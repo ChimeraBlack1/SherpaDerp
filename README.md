@@ -58,6 +58,7 @@ Dashboard
 - The roles would be easier to do because you would just have a list of widgets, or apps, and assign them to groups. You assign users to groups, and bam, they can see those widgets.
 - This makes a flow where the user will come back to the dashboard to get a birds eye view of the things they can do, then select one and drill down into using it.
 - Received receipts for documents could be cool.  Basically when you send an invoice or whatever from the system, in the email it asks the user to click a button showing they have received the invoice.  This way, if the user clicks that button, it will send a JSON response to the originator's account -- updating a little flag on the document to show "receipt confirmed".
+- Sales reps need a HUD where they can see in real-time whether or not their orders have been pushed back, completed, or are hanging in limbo.  It could function like a "last 5 actions" menu, where you could drill down into it to see the whole history of your orders.
 
 
 MVP (Minimum Viable Product)
